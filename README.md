@@ -42,7 +42,7 @@ trading_bot/
 - Clone the repository:
 
 ```bash
-git clone <your_repo_link>
+git clone https://github.com/Sanjana272621/trading_bot.git
 cd trading_bot
 ```
 
