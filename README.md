@@ -1,6 +1,6 @@
 # Binance Futures Testnet Trading Bot
 
-A simplified Python trading bot for Binance Futures Testnet (USDT-M) built as part of an application task.
+A simplified Python trading bot for Binance Futures Testnet (USDT-M).
 
 ## Features
 
